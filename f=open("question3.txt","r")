@@ -1,0 +1,13 @@
+f=open("question3.txt","r")
+a=f.readlines()
+for i in a:
+if "delhi" in i:
+f1=open("delhi txt","a")
+f1.write(i)
+f1.write("\n")
+dif
+thisdict = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+} 
